@@ -1,4 +1,17 @@
-# Spanish Day #2
+# Spanish
+
+## Descriptors
+
+|English|Spanish|
+|-------|-------|
+|what|que|
+|where|donde|
+|when|cuando|
+|why|por que|
+|how|cómo|
+
+
+## Verbs
 
 ### Regular Verb Rules
 
@@ -12,53 +25,21 @@
 
 ### Presente Indicativo
 
-**ser**
-
-_am/are_
-
-|Subject|Verb|
-|-------|----|
-|yo|soy|
-|tu|eres|
-|el/ella/usted|es|
-|nosotros|somos|
-|ellas/ustedes|son|
-
-**tener**
-
-_to have_
-
-|Subject|Verb|
-|-------|----|
-|yo|tengo|
-|tu|tienes|
-|el/ella/usted|tiene|
-|nosotros|tenemos|
-|ellas/ustedes|tienen|
-
-**trabajar**
-
-_to work_
-
-|Subject|Verb|
-|-------|----|
-|yo|trabajo|
-|tu|trabajas|
-|el/ella/usted|trabaja|
-|nosotros|trabajamos|
-|ellas/ustedes|trabajan|
-
-**ir**
-
-_to go_
-
-|Subject|Verb|
-|-------|----|
-|yo|voy|
-|tu|vas|
-|el/ella/usted|va|
-|nosotros|vamos|
-|ellas/ustedes|va|
+|English|Verb|Yo|Tu|El/Ella|Nostotros|Ellos/Ellas|
+|-------|----|---|---|-------|-------|-----------|
+|to be|ser|soy|eres|us|somos|son|
+|to have|tener|tengo|tienes|tiene|tenemos|tienen|
+|to work|trabajar|trabajo|trabajas|trabaja|trabajamos|trabajan|
+|to go|ir|voy|vas|va|vamos|van|
+|to come|venir|vengo|vienes|vene|venimos|vienen|
+|to live|vivir|vivo|vives|vive|vivimos|viven|
+|to do|hacer|hago|haces|hace|hacemos|hacen|
+|to put|poner|pongo|pones|pone|ponemos|ponen|
+|to watch|ver|veo|ves|ve|vemos|ven|
+|to need|necesitar|necesito|necesitas|necesita|necesitamos|necesit|
+|to want|querer|quiero|quieras|quiera|queremos|quieren|
+|to prefer|preferir|prefiero|prefieras|prefiera|preferimos|prefieren|
+||||||||
 
 ### Presente Reflexivos
 
@@ -76,13 +57,10 @@ _to go_
 
 _Llamarse_
 
-|Subject|Verb|
-|-------|----|
-|yo|me llamo|
-|tu|te llamas|
-|el/ella/usted|se llama|
-|nosotros|nos llamas|
-|ellas/ustedes|se llaman|
+|English|Verb|Yo|Tu|El/Ella|Nostotros|Ellos/Ellas|
+|-------|----|---|---|-------|-------|-----------|
+|to speak|llamarse|me llamo|te llamas|se llama|nos lammas|se llaman|
+||||||||
 
 ### More Verbs
 
@@ -90,14 +68,12 @@ _Llamarse_
 |------|-------|------|-------|
 |to talk|hablar|to put|poner|
 |to eat|comer|to know|saber|
-|to live|vivir|to go out|salir|
+|||to go out|salir|
 |to give|dar|to do|hacer|
 |to say|decir|to bring|traer|
 |to come|venir|to see|ver|
 
 ---
-
-# Spanish Day 3
 
 ## Nouns
 
@@ -117,10 +93,12 @@ Nouns ending in the following are typically masciline
 
 Examples
 
-- el perro
-- elbailador
-- el puente
-- el general
+|English|Spanish|English|Spanish|
+|-------|-------|-------|-------|
+|car|el coche|dog|el perro|
+|dancer|el bailador|bridge|el puente|
+|general|el general|||
+|||||
 
 **Feminine**
 
@@ -135,18 +113,22 @@ Nouns ending in the following are typically feminine
 
 Examples
 
-- la costumbre
-- la educacion
-- la ciudad
-- la crisis
-- la serie
-- la accion
+**Words**
+
+|English|Spanish|English|Spanish|
+|-------|-------|-------|-------|
+|city|la ciudad|custom|la costumbre|
+|education|la educacion|crisis|la crisis|
+|series|la serie|action|la accion|
+|||||
 
 **Neutral**
 
 _todo_	
 
-### Adjectives
+---
+
+## Adjectives
 
 In Spanish, the adjective comes after the noun. The end of the adjective _may_ change from whether the noun is masculine or feminine
 
@@ -154,12 +136,6 @@ Examples:
 
 - la chica baja / la chico bajo
 - chica agradable / chico agradable
-
----
-
-# Spanish Day 4
-
-### Adjectives
 
 **Opposites**
 
@@ -178,7 +154,9 @@ Examples:
 |nice|agradable|not nice|desagreadable|
 |long|largo|short|corto|
 
-### Possessives
+---
+
+## Possessives
 
 **With Nouns**
 
@@ -203,3 +181,19 @@ _Always after the noun_
 |his / hers|suyo / suya|suyos / suyas|
 |our|nuestro / nuestra|nuestro / nuestras|
 |his / hers|suyo / suya|suyos / suyas|
+
+---
+
+## Comparatives
+
+|English|Spanish|Structure|Example|
+|-------|-------|---------|------|
+|more|mas|mas + {{adj}} + que||
+|less|menos|menos + {{adj}} + que||
+|equal|tan|tan + {{adj}} + como||
+|better|mejor/mejores|mejor/mejores + que||
+|worse|peor/peores|peor/peores + que||
+|greater|mayor/mayores|mayor/mayores + que||
+|less than|menor/menores|menor/menores + que||
+|||||
+

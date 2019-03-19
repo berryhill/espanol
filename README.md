@@ -2,6 +2,11 @@
 
 ## Descriptors
 
+|Spanish|English|
+|-------|-------|
+|cómo|how / as / like|
+|que|then / what / that|
+
 |English|Spanish|
 |-------|-------|
 |what|que|
@@ -53,10 +58,6 @@
 |nosotros|nos|
 |ellas/ustedes|se|
 
-**To Speak**
-
-_Llamarse_
-
 |English|Verb|Yo|Tu|El/Ella|Nostotros|Ellos/Ellas|
 |-------|----|---|---|-------|-------|-----------|
 |to speak|llamarse|me llamo|te llamas|se llama|nos lammas|se llaman|
@@ -91,7 +92,7 @@ Nouns ending in the following are typically masciline
 - e
 - o
 
-Examples
+**Examples**
 
 |English|Spanish|English|Spanish|
 |-------|-------|-------|-------|
@@ -113,7 +114,7 @@ Nouns ending in the following are typically feminine
 
 Examples
 
-**Words**
+**Examples**
 
 |English|Spanish|English|Spanish|
 |-------|-------|-------|-------|
@@ -197,3 +198,18 @@ _Always after the noun_
 |less than|menor/menores|menor/menores + que||
 |||||
 
+---
+
+## More/Many
+
+**Muy**
+
+Use with adverbs/adjectives. _muy + {{adj/adv}}_
+
+**Mucho/Mucha/Muchos/Muchas**
+
+Use with nouns. _mucho + {{noun}}_
+
+**Mucho**
+
+User with verbs. _{{verb}} + mucho_
